@@ -1,3 +1,7 @@
 {
-    "customers": []
+    "customers": [{
+        "id": "xxxx-xxxx",
+        "firstName": "Dog",
+        "lastName": "Mouse"
+    }]
 }
